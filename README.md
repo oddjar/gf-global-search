@@ -1,3 +1,7 @@
+This project has been superceded by a faster, more advanced plugin that I've developed here:
+
+https://oddjar.com/gravity-forms-global-search/
+
 # Gravity Forms Global Search
 
 Gravity Forms Global Search is a WordPress plugin that allows searching across all forms and entries within Gravity Forms from a single screen.
